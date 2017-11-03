@@ -1,0 +1,4 @@
+SpringMVC
+MVC：M（Model）+ V（View）+ C（Controller）
+三层架构：展现层+业务层+数据访问层
+关系:mvc只存在在展现层
